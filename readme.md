@@ -1,5 +1,7 @@
 # Requisitos do programa: 
 
+Linguagem: C/C++
+
 Utilizando o arquivo disponibilizado, implemente uma função para cada operação básica (soma, subtração, multiplicação e divisão).
 
 Em caso de divisão por 0, exibir mensagem para o usuário e retornar 0.
